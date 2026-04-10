@@ -1,10 +1,15 @@
-# PyMathFunction
-Программа для визуализации математических функций f(x) с использованием модуля turtle
+# 📈 PyMathFunction
+Это графический калькулятор на Python, использующий модуль `turtle`. 
 
-✅Маштабируемая сетка(1кл = 1ед)
-✅Поддержка тригонометрии(sin, cos, tan)
+## 🚀 Возможности
+- **Динамический ввод:** вводите любую формулу прямо во время работы программы.
+- **Масштаб:** 1 клетка сетки соответствует 1 единице в системе координат.
+- **Математическая точность:** поддержка `sin`, `cos`, `sqrt`, `exp` и других функций из модуля `math`.
 
+## 🛠 Как пользоваться
+1. Запустите `main.py`.
+2. В появившемся окне введите математическую формулу, используя `x`. 
+   *Пример: `10 * sin(x)` или `x**2`.*
 
-<img width="1196" height="941" alt="image" src="https://github.com/user-attachments/assets/2e8ba1cf-0fdc-4a97-a262-fa2899ce7f2e" />
-<img width="1197" height="944" alt="image" src="https://github.com/user-attachments/assets/dbd4580b-35b0-4cf1-9ff0-921891cb5cc9" />
-
+<img width="600" height="475" alt="image" src="https://github.com/user-attachments/assets/dbd4580b-35b0-4cf1-9ff0-921891cb5cc9" />
+<img width="600" height="475" alt="image" src="https://github.com/user-attachments/assets/2e8ba1cf-0fdc-4a97-a262-fa2899ce7f2e" />
