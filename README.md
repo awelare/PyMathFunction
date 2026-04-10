@@ -12,4 +12,5 @@
    *Пример: `10 * sin(x)` или `x**2`.*
 
 <img width="600" height="475" alt="image" src="https://github.com/user-attachments/assets/dbd4580b-35b0-4cf1-9ff0-921891cb5cc9" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/1c358675-5d4d-45e6-9559-a0b5c4f625d2" />
 <img width="600" height="475" alt="image" src="https://github.com/user-attachments/assets/2e8ba1cf-0fdc-4a97-a262-fa2899ce7f2e" />
